@@ -27,11 +27,11 @@ export default {
         }
     },
 
-    // setup(props) {
-    //     console.log('toRefs props >', toRefs(props));
-    //     const { propUser } = toRefs(props);
-    //     console.log('propUser >', propUser)
-    // }
+    setup(props) {
+        console.log('toRefs props >', props);
+        // const { propUser } = toRefs(props);
+        // console.log('propUser >', propUser)
+    }
 }
 
 /*
