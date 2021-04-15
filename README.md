@@ -1,5 +1,7 @@
 # z3cs-v3
 
+This repository is for storing the code that was presented at Z3CS about Vue 3.
+
 ## Project setup
 ```
 npm install
